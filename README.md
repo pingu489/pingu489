@@ -1,6 +1,6 @@
 Hi there 👋
 
-**pingu489/pingu489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/OscarGonzalezFr?logo=twitter&style=social)](https://twitter.com/OscarGonzalezFr)
 
 Here are some ideas to get you started:
 
