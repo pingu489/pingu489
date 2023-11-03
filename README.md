@@ -6,7 +6,5 @@ Lenguajes:
 
 
 HTML + CSS 📃
-
 Python 🐍
-
 Bash  🤖
